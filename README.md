@@ -1,5 +1,5 @@
 # Java Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Java Essential Training](https://www.tertiarycourses.com.sg/java-essential-training-in-singapore.html) course. 
 
